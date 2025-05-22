@@ -1,4 +1,6 @@
+#include "manip.h"
 #include "matrix.h"
+#include "oper.h"
 #include <stdio.h>
 
 int main() {
